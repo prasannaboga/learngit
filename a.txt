@@ -1,3 +1,7 @@
 A file line number 1
 A file line number 2
 A file line number 3
+4.0
+    4.1
+5.0
+6.0
